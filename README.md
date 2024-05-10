@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
 <h3 align="center">Frontend developer(HTML,CSS,JS)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshks6&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshks6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshks6" alt="yogeshks6" /></a> </p>
 
